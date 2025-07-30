@@ -1,6 +1,5 @@
-# Tata-Group-Data-Visualisation-Virtual-Experience-Forage
-Tata Group: Data Visualisation Virtual Experience
-# Tata Group: Data Visualisation Virtual Experience (Forage)
+
+# Tata Group: Data Visualisation Virtual Experience-Forage
 
 Welcome to my project submission for the **Tata Group Data Visualisation Virtual Experience Program** hosted on [Forage](https://www.theforage.com/). This virtual experience simulates the role of a Data Analyst at Tata, focusing on framing business problems, visualising data effectively, and deriving actionable insights.
 
